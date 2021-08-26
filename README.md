@@ -49,7 +49,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 ## Github Status:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoyuecheng&layout=compact&hide=html" alt="Zhaoyue's Top Language Used" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zhaoyuecheng&show_icons=true" alt="Zhaoyue's Github Status" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zhaoyuecheng&show_icons=true" alt="Zhaoyue's Github Status" /></p>
 
 
 
