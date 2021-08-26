@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
   <img align="left" alt="Zhaoyue's Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
 </a>
 
-<!-- &nbsp; -->
+&nbsp;
 
 ## About:
 - I'm currently a Machine Learning Research Scientist at Layer6 AI
