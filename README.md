@@ -20,8 +20,8 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 ## About:
-- I'm a Machine Learning Research Scientist at Layer6 AI
-- I mostly work on research and applications in Recommendation Systems, Natural Language Processing and Information Retrieval
+- I'm a Machine Learning Scientist at Layer6 AI
+- I mostly work on research and applications in fields of Recommendation Systems, Natural Language Processing and Information Retrieval
 
 ## Languages and Tools:
 
