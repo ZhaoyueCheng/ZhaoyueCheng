@@ -5,7 +5,7 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 <a href="https://twitter.com/joey__cheng">
-  <img align="left" alt="Zhaoyue's Twitter" width="22px" src="https://www.svgrepo.com/download/183608/twitter.svg" />
+  <img align="left" alt="Zhaoyue's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/zhaoyuecheng">
   <img align="left" alt="Zhaoyue's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
