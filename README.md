@@ -20,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 ## About:
-- Software Engineer
+- Software Engineer, Machine Learning
 
 ## Languages and Tools:
 
