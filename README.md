@@ -20,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 ## About:
-- I'm currently a Software Engineer at Meta
+- I'm currently a Software Engineer 
 
 ## Languages and Tools:
 
