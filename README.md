@@ -20,8 +20,7 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 ## About:
-- I'm currently a Senior Machine Learning Scientist at Layer6 AI
-- I work on research and applications in fields of Recommendation Systems, Natural Language Processing and Information Retrieval
+- I'm currently a Software Engineer at Meta
 
 ## Languages and Tools:
 
