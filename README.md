@@ -51,8 +51,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <!-- &nbsp; -->
 
 ## Github Status:
-<p><img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoyuecheng&layout=compact&hide=html" alt="Zhaoyue's Top Language Used" /></p>
-<p><img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=zhaoyuecheng&show_icons=true" alt="Zhaoyue's Github Status" /></p>
+<p><img width="40%" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zhaoyuecheng&layout=compact&hide=html" alt="Zhaoyue's Top Language Used" /></p>
+<p><img width="50%" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zhaoyuecheng&show_icons=true" alt="Zhaoyue's Github Status" /></p>
 
 
 
